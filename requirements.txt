@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+textblob
+joblib
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+ollama
+chromadb
