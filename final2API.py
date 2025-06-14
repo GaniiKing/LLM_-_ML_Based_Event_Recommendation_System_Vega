@@ -9,7 +9,7 @@ import time
 
 # Initialize OpenAI client
 client = OpenAI(
-    api_key="cf345e1d-4f4e-46ee-b1de-ccd400e505ee",
+    api_key="<custom api key>",
     base_url="https://api.sambanova.ai/v1",
 )
 
