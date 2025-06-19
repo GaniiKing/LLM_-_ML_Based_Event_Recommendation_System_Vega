@@ -6,7 +6,7 @@ from openai import OpenAI
 import pandas as pd
 
 client = OpenAI(
-    api_key="cf345e1d-4f4e-46ee-b1de-ccd400e505ee",
+    api_key="<YOUR API KEY>",
     base_url="https://api.sambanova.ai/v1",
 )
 
